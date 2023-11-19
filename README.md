@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @w3bprinz
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning python and JavaScript/NodeJS.
+- 🌱 I’m currently learning JavaScript, React and Vue.js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
