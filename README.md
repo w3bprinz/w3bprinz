@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Patrick.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning JavaScript, Vue.js and React.
+- 🌱 I’m currently learning JavaScript, Vue.js and Tailwind CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
