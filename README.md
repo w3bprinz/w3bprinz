@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Patrick.
-- 👀 I’m interested in programming.
+- 👀 I'm a systems integration IT specialist and am interested in programming.
+- 🏗️ I'm working on my own website.
 - 🌱 I’m currently learning JavaScript, Vue.js and Tailwind CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
